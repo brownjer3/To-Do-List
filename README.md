@@ -1,2 +1,2 @@
 # To-Do-List
-CSS practice
+CSS/jQuery practice
